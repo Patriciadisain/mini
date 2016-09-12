@@ -1,0 +1,103 @@
+
+ul li{
+	list-style: none;
+}
+.fondo {
+  	background-image: url(../img/araucaria-03.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.home{
+	min-height: 700px;
+}
+.boton{
+	display: inline-block;
+	background-color: black;
+	border-radius: 7px;
+	padding: 10px;
+	margin:70px;
+}
+.boton a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 30px;
+	color:white;
+	font-family: 'Berkshire Swash', cursive;
+}
+.lista{
+	margin-left: 75%;
+	position: relative;
+	top: -100px;
+}
+.lista ul li{
+	float: left;
+	display: inline;
+}
+.lista a{
+	margin: 5px;
+	color: black;
+	font-size: 22px;
+	text-decoration: none;
+	font-family: 'Berkshire Swash', cursive;
+}
+.nombre h1{
+	margin: 5px;
+	color: white;
+	font-size: 35px;
+	font-family: 'Berkshire Swash', cursive;
+	text-align: center;
+}
+.nombre h2{
+	margin: 5px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+}
+.info{
+	background: #CAC9C9;
+}
+.blanco{
+	background: white;
+	padding: 20px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.blanco h3{
+	font-family: 'Berkshire Swash', cursive;
+	text-align: center;
+	font-size: 22px;
+}
+.blanco p{
+	text-align: justify;
+	font-size: 16px;
+	padding: 10px;
+}
+.boton-2{
+	display: inline-block;
+	background-color:#CAC9C9 ;
+	padding: 10px;
+	margin-left: 40%;
+}
+.boton-2 a{
+	text-decoration: none;
+	text-align: center;
+	font-size: 18px;
+	color:white;
+	font-weight:bold;
+}
+.imagenes{
+	height: 300px;
+}
+footer{
+	background: #3D3C3C;
+	margin-top: 20px;
+}
+footer p{
+	font-size: 16px;
+	padding: 10px;
+	margin: 20px;
+	color: white;
+}
+
+
